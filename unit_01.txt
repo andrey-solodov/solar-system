@@ -1,0 +1,4 @@
+Step 1 goto
+Step 2 update
+Step 3 insert
+Step 4 select *
