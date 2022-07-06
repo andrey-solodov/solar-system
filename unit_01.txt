@@ -1,0 +1,5 @@
+Step 1 goto 10 (modified smth)
+Step 2 update
+Step 3 insert
+Step 4 select *
+Step 5 add smth
